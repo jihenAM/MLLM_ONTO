@@ -1,0 +1,50 @@
+Class,image,SymptomAbnormality,accordance with ontology (Symptom),Color Abnormality,accordance with ontology (Color),ShapeOfSymptomAbnormality,accordance with ontology (Shape)
+Brown Spot,brown_spot (338),"Spot
+",1,Brown,1,"""Oval""
+",1
+Brown Spot,brown_spot (24),Spot,1,Brown,1,"""Oval""",1
+Brown Spot,brown_spot (40),Spot,1,BrownishYellow,1,"""Circular""",1
+Brown Spot,brown_spot (77),Spot,1,Brown,1,"""Oval""",1
+Brown Spot,brown_spot (168),Spot,1,Brown,1,"""Circular""",1
+Brown Spot,brown_spot (185),Spot,1,Brown,1,"""Oval""",1
+Brown Spot,brown_spot (246),Spot,1,Brown,1,"""Oval""",1
+Brown Spot,brown_spot (249),Spot,1,"Brown
+",1,"""Oval""
+",1
+Brown Spot,brown_spot (320),Spot,1,"BrownishYellow
+",1,"""Oval""
+",1
+Brown Spot,brown_spot (14).jpg,"Spot
+",1,"DarkBrown 
+",0,Eye,0
+leaf blast,leaf_blast (80),Spot,1,Brown,1,"Oval""",0
+leaf blast,leaf_blast (39),Spot,1,Brown,1,"""Oval""",0
+leaf blast,leaf_blast (182),Spot,1,Brown,1,"""Oval""",0
+leaf blast,leaf_blast (191),Spot,1,Brown,1,"""Ellipsoid""",0
+leaf blast,leaf_blast (16),Lesion,0,Brown,1,"""Linear""",0
+leaf blast,leaf_blast (33),Spot,1,BrownishGray,0,"""Oval""
+",0
+leaf blast,leaf_blast (104),Spot,1,Brown,1,"""Linear""",0
+leaf blast,leaf_blast (225),Spot,1,LightBrown,0,"""Oval""",0
+leaf blast,leaf_blast (235),Lesion,0,Brown,1,"Linear""",0
+leaf blast,leaf_blast (357),Spot,1,Brown,1,"""Oval""",0
+narrow_brown -spot,"narrow_brown (1),jpg",Spot,1,Brown,1,"""Linear""",1
+narrow_brown -spot,narrow_brown (8).jpg,Spot,1,Brown,1,"""Linear""",1
+narrow_brown -spot,narrow_brown (13).jpg,Spot,0,Brown,1,"""Linear""",1
+narrow_brown -spot,narrow_brown (27).jpg,Lesion,1,Brown,1,"""Linear""",1
+narrow_brown -spot,narrow_brown (31),Spot,0,"Orange""",0,"""Linear""",1
+narrow_brown -spot,narrow_brown (81),N/A,0,"""Orange"",",0,"""Linear""",1
+narrow_brown -spot,narrow_brown_val (14),Spot,0,"""Brown""",1,"""Oval""",0
+narrow_brown -spot,narrow_brown_val (22),Spot,0,"""BrownishYellow""",0,"""Linear""",1
+narrow_brown -spot,narrow_brown_val (32),Lesion,1,"""Orange""",0,"""Linear""",1
+narrow_brown -spot,narrow_brown_val (33),Spot,0,"""Orange""",0,"""Linear""",1
+Leaf Scald,leaf_scald (15),Dry,0,"""YellowishBrown""",0,"""Ellipsoid""",1
+Leaf Scald,leaf_scald (22),Spot,0,"""BrownishYellow""",0,"""Oval""",1
+Leaf Scald,leaf_scald (59),Spot,0,"""Brown""",0,"""Oval""",1
+Leaf Scald,leaf_scald (63),Lesion,1,"""Brown""",0,"""Linear""",0
+Leaf Scald,leaf_scald (65),N/A,0,"""N/A""",0,"""N/A""",0
+Leaf Scald,leaf_scald (80),Lesion,1,"""Brown""",0,"""Linear""",0
+Leaf Scald,leaf_scald (84),N/A,0,"""YellowishBrown""",0,"""N/A""",0
+Leaf Scald,leaf_scald (86),Spot,0,"""Brown""",0,"""Linear""",0
+Leaf Scald,leaf_scald (128),Spot,0,"""Brown""",0,"""Linear""",0
+Leaf Scald,leaf_scald (302),Lesion,1,"""Brown""",0,"""Oval""",1

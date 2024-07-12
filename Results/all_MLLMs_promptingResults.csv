@@ -1,0 +1,349 @@
+disease class,image name,gemini-pro-vision,llava-v1.6-34b,gpt-4-vision-preview,claude-3-opus-20240229
+bacterial leaf blight,bacterial_leaf_blight (1).jpg,"{“SymptomAbnormality”: “N/A”, “ColorAbnormality”: “N/A”, “ShapeOfSymptomAbnormality”: “N/A”}","{“SymptomAbnormality”: ""Lesion"", “ColorAbnormality”: ""DarkBrown"", “ShapeOfSymptomAbnormality”: ""Linear""}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Linear""}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Linear"""
+bacterial leaf blight,bacterial_leaf_blight (2).jpg,"{“SymptomAbnormality”: “Lesion”, “ColorAbnormality”: “Brown”, “ShapeOfSymptomAbnormality”: “Linear”}","{""SymptomAbnormality"": ""Spot"",""ColorAbnormality"":""YellowishGreen"", ""ShapeOfSymptomAbnormality"": ""Eye""}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""BrownishYellow"", ""ShapeOfSymptomAbnormality"": ""Linear""}","{""SymptomAbnormality"": ""Spot"", ""ColorAbnormality"": ""BrownishYellow"", ""ShapeOfSymptomAbnormality"": ""Linear""}"
+bacterial leaf blight,bacterial_leaf_blight (3).jpg,"{“SymptomAbnormality”: “Spot”, “ColorAbnormality”: “YellowishBrown”, “ShapeOfSymptomAbnormality”: “Linear”}","{ ""SymptomAbnormality"": ""Lesion"",""ColorAbnormality"": ""Green"",""ShapeOfSymptomAbnormality"": ""Halo""}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""BrownishYellow"", ""ShapeOfSymptomAbnormality"": ""Ellipsoid""}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""LightBrown"", ""ShapeOfSymptomAbnormality"": ""Linear""}"
+bacterial leaf blight,bacterial_leaf_blight (4).jpg,"{“SymptomAbnormality”: “Lesion”, “ColorAbnormality”: “Brown”, “ShapeOfSymptomAbnormality”: “Linear”}","{ ""SymptomAbnormality"": ""Pimple"", ""ColorAbnormality"": ""GreenishBlack"",""ShapeOfSymptomAbnormality"": ""Circular""}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Linear""}","{""SymptomAbnormality"": ""Spot"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Linear""}"
+bacterial leaf blight,bacterial_leaf_blight (5).jpg,"{“SymptomAbnormality”: “Spot”, “ColorAbnormality”: “Brown”, “ShapeOfSymptomAbnormality”: “Oval”}","{""SymptomAbnormality"": ""Spot"",""ColorAbnormality"": ""Yellow"",""ShapeOfSymptomAbnormality"": ""Oval""}","{“SymptomAbnormality”: “Lesion”, “ColorAbnormality”: “Brown”, “ShapeOfSymptomAbnormality”: “Linear”}","{
+ ""SymptomAbnormality"": ""Lesion"",
+ ""ColorAbnormality"": ""Green"",
+ ""ShapeOfSymptomAbnormality"": ""Ellipsoid""
+}"
+bacterial leaf blight,bacterial_leaf_blight (178).jpg,"{“SymptomAbnormality”: “Lesion”, “ColorAbnormality”: “Brown”, “ShapeOfSymptomAbnormality”: “Linear”}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""Brown"",""ShapeOfSymptomAbnormality"": ""Linear""}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""BrownishYellow"", ""ShapeOfSymptomAbnormality"": ""Linear""}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""BrownishYellow"", ""ShapeOfSymptomAbnormality"": ""Oval""}"
+bacterial leaf blight,bacterial_leaf_blight (179),"{“SymptomAbnormality”: “Lesion”, “ColorAbnormality”: “Brown”, “ShapeOfSymptomAbnormality”: “Linear”}","{""SymptomAbnormality"": ""Spot"",""ColorAbnormality"": ""GreenishBrown"",""ShapeOfSymptomAbnormality"": ""Linear""}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Ellipsoid""}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""BrownishYellow"", ""ShapeOfSymptomAbnormality"": ""Linear""}"
+bacterial leaf blight,bacterial_leaf_blight (180),"{“SymptomAbnormality”: “Lesion”, “ColorAbnormality”: “Brown”, “ShapeOfSymptomAbnormality”: “Linear”}","{""SymptomAbnormality"": ""Spot"",""ColorAbnormality"": ""GreenishBrown"",""ShapeOfSymptomAbnormality"": ""Linear""}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""GrayishBrown"", ""ShapeOfSymptomAbnormality"": ""Linear""}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Linear""}"
+bacterial leaf blight,bacterial_leaf_blight (188),"{“SymptomAbnormality”: “Lesion”, “ColorAbnormality”: “Brown”, “ShapeOfSymptomAbnormality”: “Linear”}","{ ""SymptomAbnormality"": ""Lesion"",""ColorAbnormality"": ""GreenishBrown"", ""ShapeOfSymptomAbnormality"": ""Oval""}
+
+","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""BrownishYellow"", ""ShapeOfSymptomAbnormality"": ""Ellipsoid""}","{""SymptomAbnormality"": ""Spot"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Linear""}"
+bacterial leaf blight,bacterial_leaf_blight (189),"{“SymptomAbnormality”: “Lesion”, “ColorAbnormality”: “Brown”, “ShapeOfSymptomAbnormality”: “Linear”}","{ ""SymptomAbnormality"": ""Spot"",""ColorAbnormality"": ""GreenishBrown"",""ShapeOfSymptomAbnormality"": ""Linear""}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Linear""}","{""SymptomAbnormality"": ""Spot"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Linear""}"
+brown spot,brown_spot (14).jpg,"{“SymptomAbnormality”: “Spot”, “ColorAbnormality”: “Brown”, “ShapeOfSymptomAbnormality”: “Circular”}","{""SymptomAbnormality"": ""Spot"",""ColorAbnormality"": ""GreenishBlack"", ""ShapeOfSymptomAbnormality"": ""Oval""}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""BrownishGray"", ""ShapeOfSymptomAbnormality"": ""Oval""}","{
+""SymptomAbnormality"": ""Spot"",
+""ColorAbnormality"": ""DarkBrown"",
+""ShapeOfSymptomAbnormality"": ""Eye""
+}"
+brown spot,brown_spot (27),"{“SymptomAbnormality”: “Spot”, “ColorAbnormality”: “DarkBrown”, “ShapeOfSymptomAbnormality”: “Circular”}","{""SymptomAbnormality"": ""Spot"",""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Circular""}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""BrownishGray"", ""ShapeOfSymptomAbnormality"": ""Circular""}","{""SymptomAbnormality"": ""Spot"", ""ColorAbnormality"": ""DarkBrown"", ""ShapeOfSymptomAbnormality"": ""Circular""}"
+brown spot,brown_spot (28),"{“SymptomAbnormality”: “Spot”, “ColorAbnormality”: “DarkBrown”, “ShapeOfSymptomAbnormality”: “Circular”}","{
+ ""SymptomAbnormality"": ""Spot"",
+ ""ColorAbnormality"": ""DarkBrown"",
+ ""ShapeOfSymptomAbnormality"": ""Halo""
+}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Eye""}","{""SymptomAbnormality"": ""Spot"", ""ColorAbnormality"": ""BrownishYellow"", ""ShapeOfSymptomAbnormality"": ""Oval""}"
+brown spot,brown_spot (47),"{“SymptomAbnormality”: “Spot”, “ColorAbnormality”: “Brown”, “ShapeOfSymptomAbnormality”: “Circular”}","{
+""SymptomAbnormality"": ""Spot"",
+""ColorAbnormality"": ""YellowishBrown"",
+""ShapeOfSymptomAbnormality"": ""Ellipsoid""
+}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Circular""}","{""SymptomAbnormality"": ""Spot"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Oval""}"
+brown spot,brown_spot (60),"{“SymptomAbnormality”: “Spot”, “ColorAbnormality”: “DarkBrown”, “ShapeOfSymptomAbnormality”: “Circular”}","{
+ ""SymptomAbnormality"": ""Lesion"",
+ ""ColorAbnormality"": ""DarkBrown"",
+ ""ShapeOfSymptomAbnormality"": ""Ellipsoid""
+}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Circular""}","{""SymptomAbnormality"": ""Spot"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Oval""}"
+brown spot,brown_spot (61),"{“SymptomAbnormality”: “Spot”, “ColorAbnormality”: “Brown”, “ShapeOfSymptomAbnormality”: “Oval”}","{
+ ""SymptomAbnormality"": ""Spot"",
+ ""ColorAbnormality"": ""Brown"",
+ ""ShapeOfSymptomAbnormality"": ""Oval""
+}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Oval""}","{""SymptomAbnormality"": ""Spot"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Oval""}"
+brown spot,brown_spot (68),"{“SymptomAbnormality”: “Spot”, “ColorAbnormality”: “DarkBrown”, “ShapeOfSymptomAbnormality”: “Circular”}","{
+ ""SymptomAbnormality"": ""Spot"",
+ ""ColorAbnormality"": ""GreenishBlack"",
+ ""ShapeOfSymptomAbnormality"": ""Ball""
+}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Oval""}","{""SymptomAbnormality"": ""Spot"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Oval""}"
+brown spot,brown_spot (73),"{“SymptomAbnormality”: “Spot”, “ColorAbnormality”: “Brown”, “ShapeOfSymptomAbnormality”: “Circular”}","{
+ ""SymptomAbnormality"": ""Spot"",
+ ""ColorAbnormality"": ""YellowishBrown"",
+ ""ShapeOfSymptomAbnormality"": ""Linear""
+}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Circular""}","{""SymptomAbnormality"": ""Spot"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Oval""}"
+brown spot,brown_spot (338),"{“SymptomAbnormality”: “Spot”, “ColorAbnormality”: “Brown”, “ShapeOfSymptomAbnormality”: “Circular”}","{
+ ""SymptomAbnormality"": ""Lesion"",
+ ""ColorAbnormality"": ""Yellow"",
+ ""ShapeOfSymptomAbnormality"": ""Circular""
+}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Oval""}","{
+""SymptomAbnormality"": ""Spot"",
+""ColorAbnormality"": ""Brown"",
+""ShapeOfSymptomAbnormality"": ""Oval""
+}"
+Brown_spot,brown_spot (24),"{“SymptomAbnormality”: “Spot”, “ColorAbnormality”: “Brown”, “ShapeOfSymptomAbnormality”: “Circular”}","{
+ ""SymptomAbnormality"": ""Spot"",
+ ""ColorAbnormality"": ""YellowishBrown"",
+ ""ShapeOfSymptomAbnormality"": ""Circular""
+}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""BrownishYellow"", ""ShapeOfSymptomAbnormality"": ""Oval""}","{""SymptomAbnormality"": ""Spot"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Oval""}"
+Brown_spot,brown_spot (40),"{“SymptomAbnormality”: “Lesion”, “ColorAbnormality”: “Brown”, “ShapeOfSymptomAbnormality”: “Oval”}","{
+ ""SymptomAbnormality"": ""Pimple"",
+ ""ColorAbnormality"": ""GreenishBlack"",
+ ""ShapeOfSymptomAbnormality"": ""Oval""
+}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Oval""}","{""SymptomAbnormality"": ""Spot"", ""ColorAbnormality"": ""Brown, BrownishYellow, LightYellow"", ""ShapeOfSymptomAbnormality"": ""Circular""}"
+Brown_spot,brown_spot (77),"{“SymptomAbnormality”: “Spot”, “ColorAbnormality”: “Brown”, “ShapeOfSymptomAbnormality”: “Oval”}","{
+   ""SymptomAbnormality"": ""Spot"",
+   ""ColorAbnormality"": ""Brown"",
+   ""ShapeOfSymptomAbnormality"": ""Linear""
+}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Circular""}","{""SymptomAbnormality"": ""Spot"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Oval""}"
+Brown_spot,brown_spot (168),"{“SymptomAbnormality”: “Spot”, “ColorAbnormality”: “Brown”, “ShapeOfSymptomAbnormality”: “Oval”}","{
+ ""SymptomAbnormality"": ""Spot"",
+ ""ColorAbnormality"": ""ReddishBrown"",
+ ""ShapeOfSymptomAbnormality"": ""Oval""
+}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Oval""}","{""SymptomAbnormality"": ""Spot"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Circular""}"
+Brown_spot,brown_spot (185),"{“SymptomAbnormality”: “Spot”, “ColorAbnormality”: “Brown”, “ShapeOfSymptomAbnormality”: “Oval”}","{
+ ""SymptomAbnormality"": ""Spot"",
+ ""ColorAbnormality"": ""GreenishBlack"",
+ ""ShapeOfSymptomAbnormality"": ""Linear""
+}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Oval""}","{""SymptomAbnormality"": ""Spot"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Oval""}"
+Brown_spot,brown_spot (246),"{“SymptomAbnormality”: “Spot”, “ColorAbnormality”: “Brown”, “ShapeOfSymptomAbnormality”: “Oval”}","{
+ ""SymptomAbnormality"": ""Spot"",
+ ""ColorAbnormality"": ""Yellow"",
+ ""ShapeOfSymptomAbnormality"": ""Ellipsoid""
+}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Oval""}","{""SymptomAbnormality"": ""Spot"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Oval""}"
+,brown_spot (249),"{“SymptomAbnormality”: “Spot”, “ColorAbnormality”: “Brown”, “ShapeOfSymptomAbnormality”: “Oval”}","{“SymptomAbnormality”: 'Spot', “ColorAbnormality”: 'BrownishYellow', “ShapeOfSymptomAbnormality”: 'Linear'}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Oval""}","{
+""SymptomAbnormality"": ""Spot"",
+""ColorAbnormality"": ""Brown"",
+""ShapeOfSymptomAbnormality"": ""Oval""
+}"
+Brown_spot,brown_spot (320),"{“SymptomAbnormality”: “Spot”, “ColorAbnormality”: “Brown”, “ShapeOfSymptomAbnormality”: “Oval”}","{
+ ""SymptomAbnormality"": ""Spot"",
+ ""ColorAbnormality"": ""LightBrown"",
+ ""ShapeOfSymptomAbnormality"": ""Circular""
+}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Circular""}","{
+""SymptomAbnormality"": ""Spot"",
+""ColorAbnormality"": ""BrownishYellow"",
+""ShapeOfSymptomAbnormality"": ""Oval""
+}"
+blast,leaf_blast (50),"{“SymptomAbnormality”: “Spot”, “ColorAbnormality”: “Brown”, “ShapeOfSymptomAbnormality”: “Oval”}","{
+""SymptomAbnormality"": ""Lesion"",
+""ColorAbnormality"": ""Brown"",
+""ShapeOfSymptomAbnormality"": ""Oval""
+}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Oval""}","{""SymptomAbnormality"": ""Spot"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Oval""}"
+blast,leaf_blast (54),"{“SymptomAbnormality”: “Lesion”, “ColorAbnormality”: “Brown”, “ShapeOfSymptomAbnormality”: “Oval”}","{
+ ""SymptomAbnormality"": ""Spot"",
+ ""ColorAbnormality"": ""DarkBrown"",
+ ""ShapeOfSymptomAbnormality"": ""Circular""
+}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""BrownishGray"", ""ShapeOfSymptomAbnormality"": ""Oval""}","{""SymptomAbnormality"": ""Spot"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Oval""}"
+blast,leaf_blast (127),"{“SymptomAbnormality”: “Lesion”, “ColorAbnormality”: “Brown”, “ShapeOfSymptomAbnormality”: “Oval”}","{
+ ""SymptomAbnormality"": ""Lesion"",
+ ""ColorAbnormality"": ""Brown"",
+ ""ShapeOfSymptomAbnormality"": ""Oval""
+}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Oval""}","{""SymptomAbnormality"": ""Spot"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Oval""}"
+blast,leaf_blast (130),"{“SymptomAbnormality”: “Spot”, “ColorAbnormality”: “Brown”, “ShapeOfSymptomAbnormality”: “Circular”}","{
+ ""SymptomAbnormality"": ""Spot"",
+ ""ColorAbnormality"": ""GreenishBlack"",
+ ""ShapeOfSymptomAbnormality"": ""Circular""
+}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Oval""}","{""SymptomAbnormality"": ""Spot"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Oval""}"
+blast,leaf_blast (135),"{“SymptomAbnormality”: “Lesion”, “ColorAbnormality”: “Brown”, “ShapeOfSymptomAbnormality”: “Oval”}","{
+ ""SymptomAbnormality"": ""Spot"",
+ ""ColorAbnormality"": ""Brown"",
+ ""ShapeOfSymptomAbnormality"": ""Ball""
+}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Oval""}","{""SymptomAbnormality"": ""Spot"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Oval""}"
+narrow_brown_ spot,"narrow_brown (1),jpg","{“SymptomAbnormality”: “Spot”, “ColorAbnormality”: “RedBrown”, “ShapeOfSymptomAbnormality”: “Oval”}","{
+ ""SymptomAbnormality"": ""Spot"",
+ ""ColorAbnormality"": ""Brown"",
+ ""ShapeOfSymptomAbnormality"": ""Ellipsoid""
+}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Oval""}","{""SymptomAbnormality"": ""Spot"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Linear""}"
+narrow_brown_ spot,narrow_brown (8).jpg,"{“SymptomAbnormality”: “Lesion”, “ColorAbnormality”: “Brown”, “ShapeOfSymptomAbnormality”: “Linear”}","{
+ ""SymptomAbnormality"": ""Spot"",
+ ""ColorAbnormality"": ""ReddishBrown"",
+ ""ShapeOfSymptomAbnormality"": ""Eye""
+}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Oval""}","{""SymptomAbnormality"": ""Spot"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Linear""}"
+narrow_brown_ spot,narrow_brown (13).jpg,"{“SymptomAbnormality”: “Lesion”, “ColorAbnormality”: “Brown”, “ShapeOfSymptomAbnormality”: “Linear”}","{
+ ""SymptomAbnormality"": ""Spot"",
+ ""ColorAbnormality"": ""GreenishBlack"",
+ ""ShapeOfSymptomAbnormality"": ""Linear""
+}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Linear""}","{""SymptomAbnormality"": ""Spot"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Linear""}"
+narrow_brown_ spot,narrow_brown (26).jpg,"{“SymptomAbnormality”: “Lesion”, “ColorAbnormality”: “RedBrown”, “ShapeOfSymptomAbnormality”: “Linear”}","{
+ ""SymptomAbnormality"": ""Lesion"",
+ ""ColorAbnormality"": ""Brown"",
+ ""ShapeOfSymptomAbnormality"": ""Linear""
+}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Linear""}","{""SymptomAbnormality"": ""Spot"", ""ColorAbnormality"": ""BrownishYellow"", ""ShapeOfSymptomAbnormality"": ""Linear""}"
+narrow_brown_ spot,narrow_brown (27).jpg,"{“SymptomAbnormality”: “Lesion”, “ColorAbnormality”: “Brown”, “ShapeOfSymptomAbnormality”: “Linear”}","{
+ ""SymptomAbnormality"": ""Dry"",
+ ""ColorAbnormality"": ""ReddishBrown"",
+ ""ShapeOfSymptomAbnormality"": ""Linear""
+}","{“SymptomAbnormality”: “Lesion”, “ColorAbnormality”: “Brown”, “ShapeOfSymptomAbnormality”: “Linear”}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Linear""}"
+narrow_brown_ spot,narrow_brown (46).jpg,"{“SymptomAbnormality”: “Lesion”, “ColorAbnormality”: “Brown”, “ShapeOfSymptomAbnormality”: “Linear”}","{
+ ""SymptomAbnormality"": ""Spot"",
+ ""ColorAbnormality"": ""ReddishBrown"",
+ ""ShapeOfSymptomAbnormality"": ""Ellipsoid""
+}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Linear""}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Linear""}"
+narrow_brown_ spot,narrow_brown (62).jpg,"{“SymptomAbnormality”: “Lesion”, “ColorAbnormality”: “Brown”, “ShapeOfSymptomAbnormality”: “Linear”}","{
+ ""SymptomAbnormality"": ""Spot"",
+ ""ColorAbnormality"": ""BrownishYellow"",
+ ""ShapeOfSymptomAbnormality"": ""Oval""
+}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Linear""}","{""SymptomAbnormality"": ""Spot"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Oval""}"
+narrow_brown_ spot,narrow_brown (80).jpg,"{“SymptomAbnormality”: “Spot”, “ColorAbnormality”: “Brown”, “ShapeOfSymptomAbnormality”: “Oval”}","{
+ ""SymptomAbnormality"": ""Spot"",
+ ""ColorAbnormality"": ""RedBrown"",
+ ""ShapeOfSymptomAbnormality"": ""Ellipsoid""
+}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Oval""}","{""SymptomAbnormality"": ""Spot"", ""ColorAbnormality"": ""Orange"", ""ShapeOfSymptomAbnormality"": ""Linear""}"
+narrow_brown_ spot,narrow_brown (336).jpg,"{“SymptomAbnormality”: “Lesion”, “ColorAbnormality”: “RedBrown”, “ShapeOfSymptomAbnormality”: “Linear”}","{
+ ""SymptomAbnormality"": ""Lesion"",
+ ""ColorAbnormality"": ""Brown"",
+ ""ShapeOfSymptomAbnormality"": ""Linear""
+}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Linear""}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""BrownishYellow"", ""ShapeOfSymptomAbnormality"": ""Oval""}"
+leaf blast,leaf_blast (16),"{“SymptomAbnormality”: “Spot”, “ColorAbnormality”: “Brown”, “ShapeOfSymptomAbnormality”: “Oval”}","{
+ ""SymptomAbnormality"": ""Spot"",
+ ""ColorAbnormality"": ""BrownishYellow"",
+ ""ShapeOfSymptomAbnormality"": ""Ball""
+}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""BrownishYellow"", ""ShapeOfSymptomAbnormality"": ""Oval""}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Linear""}"
+leaf blast,leaf_blast (33),"{
+ ""SymptomAbnormality"": ""Spot"",
+ ""ColorAbnormality"": ""YellowishBrown"",
+ ""ShapeOfSymptomAbnormality"": ""Ellipsoid""
+}","{“SymptomAbnormality”: “Lesion”, “ColorAbnormality”: “Brown”, “ShapeOfSymptomAbnormality”: “Oval”}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""BrownishGray"", ""ShapeOfSymptomAbnormality"": ""Oval""}","{
+""SymptomAbnormality"": ""Spot"",
+""ColorAbnormality"": ""BrownishGray"",
+""ShapeOfSymptomAbnormality"": ""Oval""
+}"
+leaf blast,leaf_blast (50),"{“SymptomAbnormality”: “Spot”, “ColorAbnormality”: “Brown”, “ShapeOfSymptomAbnormality”: “Circular”}","{
+ ""SymptomAbnormality"": ""Lesion"",
+ ""ColorAbnormality"": ""DarkBrown"",
+ ""ShapeOfSymptomAbnormality"": ""Netlike""
+}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Oval""}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""BrownishYellow"", ""ShapeOfSymptomAbnormality"": ""Oval""}"
+leaf blast,leaf_blast (104),"{“SymptomAbnormality”: “Spot”, “ColorAbnormality”: “Brown”, “ShapeOfSymptomAbnormality”: “Oval”}","{
+ ""SymptomAbnormality"": ""Spot"",
+ ""ColorAbnormality"": ""BrownishYellow"",
+ ""ShapeOfSymptomAbnormality"": ""Oval""
+}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Oval""}","{""SymptomAbnormality"": ""Spot"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Linear""}"
+leaf blast,leaf_blast (225),"{“SymptomAbnormality”: “Spot”, “ColorAbnormality”: “DarkBrown”, “ShapeOfSymptomAbnormality”: “Circular”}","{
+ ""SymptomAbnormality"": ""Spot"",
+ ""ColorAbnormality"": ""GrayishBrown"",
+ ""ShapeOfSymptomAbnormality"": ""Oval""
+}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""BrownishYellow"", ""ShapeOfSymptomAbnormality"": ""Oval""}","{""SymptomAbnormality"": ""Spot"", ""ColorAbnormality"": ""LightBrown"", ""ShapeOfSymptomAbnormality"": ""Oval""}"
+leaf blast,leaf_blast (235),"{“SymptomAbnormality”: “Spot”, “ColorAbnormality”: “Brown”, “ShapeOfSymptomAbnormality”: “Oval”}","{
+ ""SymptomAbnormality"": ""Pimple"",
+ ""ColorAbnormality"": ""Brown"",
+ ""ShapeOfSymptomAbnormality"": ""Halo""
+}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Oval""}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Linear""}"
+leaf blast,leaf_blast (357),"{“SymptomAbnormality”: “Lesion”, “ColorAbnormality”: “Brown”, “ShapeOfSymptomAbnormality”: “Linear”}","{
+   ""SymptomAbnormality"": ""Spot"",
+   ""ColorAbnormality"": ""YellowishBrown"",
+   ""ShapeOfSymptomAbnormality"": ""Ellipsoid""
+}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""BrownishGray"", ""ShapeOfSymptomAbnormality"": ""Oval""}","{""SymptomAbnormality"": ""Spot"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Oval""}"
+Leaf_scald,leaf_scald (15),"{“SymptomAbnormality”: “Lesion”, “ColorAbnormality”: “Brown”, “ShapeOfSymptomAbnormality”: “Linear”}","{
+ ""SymptomAbnormality"": ""Spot"",
+ ""ColorAbnormality"": ""Brown"",
+ ""ShapeOfSymptomAbnormality"": ""Linear""
+}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Linear""}","{""SymptomAbnormality"": ""Dry"", ""ColorAbnormality"": ""YellowishBrown"", ""ShapeOfSymptomAbnormality"": ""Ellipsoid""}"
+Leaf_scald,leaf_scald (22),"{“SymptomAbnormality”: “Spot”, “ColorAbnormality”: “Yellow”, “ShapeOfSymptomAbnormality”: “Linear”}","{
+ ""SymptomAbnormality"": ""Spot"",
+ ""ColorAbnormality"": ""YellowishBrown"",
+ ""ShapeOfSymptomAbnormality"": ""Linear""
+}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""YellowishBrown"", ""ShapeOfSymptomAbnormality"": ""Linear""}","{""SymptomAbnormality"": ""Spot"", ""ColorAbnormality"": ""BrownishYellow"", ""ShapeOfSymptomAbnormality"": ""Oval""}"
+Leaf_scald,leaf_scald (59),"{“SymptomAbnormality”: “Spot”, “ColorAbnormality”: “YellowishBrown”, “ShapeOfSymptomAbnormality”: “Oval”}","{
+""SymptomAbnormality"": ""Spot"",
+""ColorAbnormality"": ""YellowishGreen"",
+""ShapeOfSymptomAbnormality"": ""Linear""
+}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""BrownishYellow"", ""ShapeOfSymptomAbnormality"": ""Oval""}","{""SymptomAbnormality"": ""Spot"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Oval""}"
+Leaf_scald,leaf_scald (63),"{“SymptomAbnormality”: “Dry”, “ColorAbnormality”: “Brown”, “ShapeOfSymptomAbnormality”: “Linear”}","{
+ ""SymptomAbnormality"": ""Spot"",
+ ""ColorAbnormality"": ""YellowishBrown"",
+ ""ShapeOfSymptomAbnormality"": ""Linear""
+}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""BrownishYellow"", ""ShapeOfSymptomAbnormality"": ""Linear""}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Linear""}"
+Leaf_scald,leaf_scald (65),"{“SymptomAbnormality”: “Dry”, “ColorAbnormality”: “Brown”, “ShapeOfSymptomAbnormality”: “Linear”}","{
+""SymptomAbnormality"": ""Spot"",
+""ColorAbnormality"": ""YellowishBrown"",
+""ShapeOfSymptomAbnormality"": ""Halo""
+}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Linear""}","{""SymptomAbnormality"": ""N/A"", ""ColorAbnormality"": ""N/A"", ""ShapeOfSymptomAbnormality"": ""N/A""}"
+Leaf_scald,leaf_scald (80),"{“SymptomAbnormality”: “Lesion”, “ColorAbnormality”: “Brown”, “ShapeOfSymptomAbnormality”: “Linear”}","{
+ ""SymptomAbnormality"": ""Spot"",
+ ""ColorAbnormality"": ""DarkBrown"",
+ ""ShapeOfSymptomAbnormality"": ""Linear""
+}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""BrownishGray"", ""ShapeOfSymptomAbnormality"": ""Linear""}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Linear""}"
+Leaf_scald,leaf_scald (84),"{“SymptomAbnormality”: “Dry”, “ColorAbnormality”: “BrownishYellow”, “ShapeOfSymptomAbnormality”: “Linear”}","{
+ ""SymptomAbnormality"": ""Spot"",
+ ""ColorAbnormality"": ""Yellow"",
+ ""ShapeOfSymptomAbnormality"": ""Linear""
+}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Linear""}","{""SymptomAbnormality"": ""N/A"", ""ColorAbnormality"": ""YellowishBrown"", ""ShapeOfSymptomAbnormality"": ""N/A""}"
+Leaf_scald,leaf_scald (86),"{“SymptomAbnormality”: “Spot”, “ColorAbnormality”: “Brown”, “ShapeOfSymptomAbnormality”: “Oval”}","{
+ ""SymptomAbnormality"": ""Spot"",
+ ""ColorAbnormality"": ""ReddishBrown"",
+ ""ShapeOfSymptomAbnormality"": ""Linear""
+}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""BrownishGray"", ""ShapeOfSymptomAbnormality"": ""Linear""}","{""SymptomAbnormality"": ""Spot"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Linear""}"
+Leaf_scald,leaf_scald (128),"{“SymptomAbnormality”: “Dry”, “ColorAbnormality”: “Brown”, “ShapeOfSymptomAbnormality”: “Linear”}","{
+ ""SymptomAbnormality"": ""Lesion"",
+ ""ColorAbnormality"": ""YellowishBrown"",
+ ""ShapeOfSymptomAbnormality"": ""Linear""
+}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""BrownishYellow"", ""ShapeOfSymptomAbnormality"": ""Linear""}","{""SymptomAbnormality"": ""Spot"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Linear""}"
+Leaf_scald,leaf_scald (302),"{“SymptomAbnormality”: “Lesion”, “ColorAbnormality”: “Brown”, “ShapeOfSymptomAbnormality”: “Linear”}","{
+ ""SymptomAbnormality"": ""Spot"",
+ ""ColorAbnormality"": ""Green"",
+ ""ShapeOfSymptomAbnormality"": ""Linear""
+}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""BrownishGray"", ""ShapeOfSymptomAbnormality"": ""Linear""}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Oval""}"
+narrow_brown_ spot,narrow_brown (31),"{“SymptomAbnormality”: “Spot”, “ColorAbnormality”: “Brown”, “ShapeOfSymptomAbnormality”: “Oval”}","{
+ ""SymptomAbnormality"": ""Lesion"",
+ ""ColorAbnormality"": ""YellowishBrown"",
+ ""ShapeOfSymptomAbnormality"": ""Circular""
+}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""BrownishYellow"", ""ShapeOfSymptomAbnormality"": ""Oval""}","{""SymptomAbnormality"": ""Spot"", ""ColorAbnormality"": ""Orange"", ""ShapeOfSymptomAbnormality"": ""Linear""}"
+narrow_brown_ spot,narrow_brown (81),"{“SymptomAbnormality”: “Lesion”, “ColorAbnormality”: “YellowishBrown”, “ShapeOfSymptomAbnormality”: “Linear”}","{
+ ""SymptomAbnormality"": ""Spot"",
+ ""ColorAbnormality"": ""YellowishGreen"",
+ ""ShapeOfSymptomAbnormality"": ""Halo""
+}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""BrownishYellow"", ""ShapeOfSymptomAbnormality"": ""Linear""}","{""SymptomAbnormality"": ""N/A"", ""ColorAbnormality"": ""Orange"", ""ShapeOfSymptomAbnormality"": ""Linear""}"
+narrow_brown_ spot,narrow_brown_val (14),"{“SymptomAbnormality”: “Spot”, “ColorAbnormality”: “Brown”, “ShapeOfSymptomAbnormality”: “Circular”}","{
+ ""SymptomAbnormality"": ""Spot"",
+ ""ColorAbnormality"": ""BrownishGreen"",
+ ""ShapeOfSymptomAbnormality"": ""Linear""
+}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Ellipsoid""}","{""SymptomAbnormality"": ""Spot"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Oval""}"
+narrow_brown_ spot,narrow_brown_val (22),"{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Linear""}","{
+ ""SymptomAbnormality"": ""Lesion"",
+ ""ColorAbnormality"": ""BlackishBrown"",
+ ""ShapeOfSymptomAbnormality"": ""Linear""
+}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Linear""}","{""SymptomAbnormality"": ""Spot"", ""ColorAbnormality"": ""BrownishYellow"", ""ShapeOfSymptomAbnormality"": ""Linear""}"
+narrow_brown_ spot,narrow_brown_val (32),"{“SymptomAbnormality”: “Spot”, “ColorAbnormality”: “Brown”, “ShapeOfSymptomAbnormality”: “Linear”}","{
+ ""SymptomAbnormality"": ""Spot"",
+ ""ColorAbnormality"": ""GreenishBlack"",
+ ""ShapeOfSymptomAbnormality"": ""Linear""
+}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Oval""}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""Orange"", ""ShapeOfSymptomAbnormality"": ""Linear""}"
+narrow_brown_ spot,narrow_brown_val (33),"{“SymptomAbnormality”: “Lesion”, “ColorAbnormality”: “Red”, “ShapeOfSymptomAbnormality”: “Linear”}","{
+ ""SymptomAbnormality"": ""Lesion"",
+ ""ColorAbnormality"": ""GreenishBrown"",
+ ""ShapeOfSymptomAbnormality"": ""Halo""
+}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""BrownishYellow"", ""ShapeOfSymptomAbnormality"": ""Linear""}","{""SymptomAbnormality"": ""Spot"", ""ColorAbnormality"": ""Orange"", ""ShapeOfSymptomAbnormality"": ""Linear""}"
+leaf_blast,leaf_blast (80),"{“SymptomAbnormality”: “Spot”, “ColorAbnormality”: “Brown”, “ShapeOfSymptomAbnormality”: “Oval”}","{ 
+""SymptomAbnormality"": ""Spot"", 
+""ColorAbnormality"": ""BrownishYellow"", 
+""ShapeOfSymptomAbnormality"": ""Linear"" 
+}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Oval""}","{""SymptomAbnormality"": ""Spot"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Oval""}"
+leaf_blast,leaf_blast (39),"{“SymptomAbnormality”: “Spot”, “ColorAbnormality”: “Brown”, “ShapeOfSymptomAbnormality”: “Oval”}","{ 
+""SymptomAbnormality"": ""Spot"", 
+""ColorAbnormality"": ""Yellow"", 
+""ShapeOfSymptomAbnormality"": ""Ellipsoid"" 
+}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Oval""}","{""SymptomAbnormality"": ""Spot"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Oval""}"
+leaf_blast,leaf_blast (182),"{“SymptomAbnormality”: “Spot”, “ColorAbnormality”: “Brown”, “ShapeOfSymptomAbnormality”: “Oval”}","{ 
+""SymptomAbnormality"": ""Lesion"", 
+""ColorAbnormality"": ""DarkBrown"", 
+""ShapeOfSymptomAbnormality"": ""Ellipsoid"" 
+}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""BrownishGray"", ""ShapeOfSymptomAbnormality"": ""Oval""}","{""SymptomAbnormality"": ""Spot"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Oval""}"
+leaf_blast,leaf_blast (191),"{“SymptomAbnormality”: “Lesion”, “ColorAbnormality”: “Brown”, “ShapeOfSymptomAbnormality”: “Oval”}","{ 
+""SymptomAbnormality"": ""Lesion"", 
+""ColorAbnormality"": ""Black"", 
+""ShapeOfSymptomAbnormality"": ""Linear"" 
+}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Oval""}","{""SymptomAbnormality"": ""Spot"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Ellipsoid""}"
+leaf_blast,leaf_blast (16),"{“SymptomAbnormality”: “Spot”, “ColorAbnormality”: “Brown”, “ShapeOfSymptomAbnormality”: “Oval”}","{ 
+""SymptomAbnormality"": ""Spot"", 
+""ColorAbnormality"": ""BrownishYellow"", 
+""ShapeOfSymptomAbnormality"": ""Ball"" 
+}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""BrownishYellow"", ""ShapeOfSymptomAbnormality"": ""Oval""}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Linear""}"
+leaf_blast,leaf_blast (33),"{ 
+""SymptomAbnormality"": ""Spot"", 
+""ColorAbnormality"": ""YellowishBrown"", 
+""ShapeOfSymptomAbnormality"": ""Ellipsoid"" 
+}","{“SymptomAbnormality”: “Lesion”, “ColorAbnormality”: “Brown”, “ShapeOfSymptomAbnormality”: “Oval”}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""BrownishGray"", ""ShapeOfSymptomAbnormality"": ""Oval""}","{ 
+""SymptomAbnormality"": ""Spot"", 
+""ColorAbnormality"": ""BrownishGray"", 
+""ShapeOfSymptomAbnormality"": ""Oval"" 
+}"
+leaf_blast,leaf_blast (104),"{“SymptomAbnormality”: “Spot”, “ColorAbnormality”: “Brown”, “ShapeOfSymptomAbnormality”: “Oval”}","{ 
+""SymptomAbnormality"": ""Spot"", 
+""ColorAbnormality"": ""BrownishYellow"", 
+""ShapeOfSymptomAbnormality"": ""Oval"" 
+}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Oval""}","{""SymptomAbnormality"": ""Spot"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Linear""}"
+leaf_blast,leaf_blast (225),"{“SymptomAbnormality”: “Spot”, “ColorAbnormality”: “DarkBrown”, “ShapeOfSymptomAbnormality”: “Circular”}","{ 
+""SymptomAbnormality"": ""Spot"", 
+""ColorAbnormality"": ""GrayishBrown"", 
+""ShapeOfSymptomAbnormality"": ""Oval"" 
+}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""BrownishYellow"", ""ShapeOfSymptomAbnormality"": ""Oval""}","{""SymptomAbnormality"": ""Spot"", ""ColorAbnormality"": ""LightBrown"", ""ShapeOfSymptomAbnormality"": ""Oval""}"
+leaf_blast,leaf_blast (235),"{“SymptomAbnormality”: “Spot”, “ColorAbnormality”: “Brown”, “ShapeOfSymptomAbnormality”: “Oval”}","{ 
+""SymptomAbnormality"": ""Pimple"", 
+""ColorAbnormality"": ""Brown"", 
+""ShapeOfSymptomAbnormality"": ""Halo"" 
+}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Oval""}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Linear""}"
+leaf_blast,leaf_blast (357),"{“SymptomAbnormality”: “Lesion”, “ColorAbnormality”: “Brown”, “ShapeOfSymptomAbnormality”: “Linear”}","{ 
+""SymptomAbnormality"": ""Spot"", 
+""ColorAbnormality"": ""YellowishBrown"", 
+""ShapeOfSymptomAbnormality"": ""Ellipsoid"" 
+}","{""SymptomAbnormality"": ""Lesion"", ""ColorAbnormality"": ""BrownishGray"", ""ShapeOfSymptomAbnormality"": ""Oval""}","{""SymptomAbnormality"": ""Spot"", ""ColorAbnormality"": ""Brown"", ""ShapeOfSymptomAbnormality"": ""Oval""}"
