@@ -1,0 +1,81 @@
+Class,image,SymptomAbnormality,accordance with ontology (Symptom),Color Abnormality,accordance with ontology (Color),ShapeOfSymptomAbnormality,accordance with ontology (Shape)
+Brown Spot,BrownSpot1.jpg,Lesion,0,Brown,1,Circular,1
+Brown Spot,BrownSpot2.jpg,Lesion,0,BrownishGray,0,Oval,1
+Brown Spot,BrownSpot3.jpg,Lesion,0,Brown,1,Oval,1
+Brown Spot,BrownSpot4.jpg,Lesion,0,Brown,1,Oval,1
+Brown Spot,BrownSpot5.jpg,Lesion,0,BrownishGray,0,Oval,1
+Brown Spot,BrownSpot6.jpg,Lesion,0,Brown,1,Oval,1
+Brown Spot,BrownSpot7.jpg,Lesion,0,Brown,1,Oval,1
+Brown Spot,BrownSpot8.jpg,Lesion,0,BrownishYellow,1,Oval,1
+Brown Spot,BrownSpot9.jpg,Lesion,0,Brown,1,Oval,1
+Brown Spot,BrownSpot10.jpg,Lesion,0,BrownishGray,0,Oval,1
+Brown Spot,BrownSpot11.jpg,Lesion,0,Brown,1,Oval,1
+Brown Spot,brown_spot (338),Lesion,0,Brown,1,Oval,1
+Brown Spot,brown_spot (24),Lesion,0,BrownishYellow,1,Oval,1
+Brown Spot,brown_spot (77),Lesion,0,Brown,1,Circular,1
+Brown Spot,brown_spot (168),Lesion,0,Brown,1,Oval,1
+Brown Spot,brown_spot (185),Lesion,0,Brown,1,Oval,1
+Brown Spot,brown_spot (246),Lesion,0,Brown,1,Oval,1
+Brown Spot,brown_spot (249),Lesion,0,Brown,1,Oval,1
+Brown Spot,brown_spot (320),Lesion,0,Brown,1,Circular,1
+Brown Spot,brown_spot (14).jpg,Lesion,0,BrownishGray,0,Oval,1
+Leaf Blast,leaf_blast1.jpg,Lesion,0,GrayishBrown,0,Oval,0
+Leaf Blast,leaf_blast2.jpg,Lesion,0,BrownishYellow,0,Linear,0
+Leaf Blast,leaf_blast3.jpg,Lesion,0,GrayishBrown,0,Oval,0
+Leaf Blast,leaf_blast4.jpg,Lesion,0,Brown,1,Oval,0
+Leaf Blast,leaf_blast5.jpg,Lesion,0,Brown,1,Linear,0
+Leaf Blast,leaf_blast6.jpg,Lesion,0,GrayishBrown,0,Oval,0
+Leaf Blast,leaf_blast7.jpg,Lesion,0,GrayishBrown,0,Oval,0
+Leaf Blast,leaf_blast8.jpg,Lesion,0,BrownishYellow,0,Oval,0
+Leaf Blast,leaf_blast9.jpg,Lesion,0,Brown,1,Oval,0
+Leaf Blast,leaf_blast10.jpg,Lesion,0,DarkBrown,0,Oval,0
+Leaf Blast,leaf_blast (80),Lesion,0,Brown,1,Oval,0
+Leaf Blast,leaf_blast (39),Lesion,0,Brown,1,Oval,0
+Leaf Blast,leaf_blast (182),Lesion,0,BrownishGray,0,Oval,0
+Leaf Blast,leaf_blast (191),Lesion,0,Brown,1,Oval,0
+Leaf Blast,leaf_blast (16),Lesion,0,BrownishYellow,0,Oval,0
+Leaf Blast,leaf_blast (33),Lesion,0,BrownishGray,0,Oval,0
+Leaf Blast,leaf_blast (104),Lesion,0,Brown,1,Oval,0
+Leaf Blast,leaf_blast (225),Lesion,0,BrownishYellow,0,Oval,0
+Leaf Blast,leaf_blast (235),Lesion,0,Brown,1,Oval,0
+Leaf Blast,leaf_blast (357),Lesion,0,BrownishGray,0,Oval,0
+Leaf scald,leaf_scald1.png,Lesion,1,GrayishBrown,1,Linear,0
+Leaf scald,leaf_scald2.jpg,Lesion,1,GrayishBrown,1,Linear,0
+Leaf scald,leaf_scald3.jpg,Lesion,1,Brown,0,Oval,1
+Leaf scald,leaf_scald4.jpg,Lesion,1,GrayishBrown,1,Linear,0
+Leaf scald,leaf_scald5.jpg,Lesion,1,BrownishYellow,0,Linear,0
+Leaf scald,leaf_scald6.jpg,Lesion,1,BrownishYellow,0,Linear,0
+Leaf scald,leaf_scald7.jpg,Lesion,1,Brown,0,Linear,0
+Leaf scald,leaf_scald8.jpg,Lesion,1,BrownishGray,0,Linear,0
+Leaf scald,leaf_scald9.jpg,Lesion,1,YellowishBrown,0,Linear,0
+Leaf scald,leaf_scald10.jpg,Lesion,1,Brown,0,Linear,0
+Leaf scald,leaf_scald (15),Lesion,1,Brown,0,Linear,0
+Leaf scald,leaf_scald (22),Lesion,1,YellowishBrown,0,Linear,0
+Leaf scald,leaf_scald (59),Lesion,1,BrownishYellow,0,Oval,1
+Leaf scald,leaf_scald (63),Lesion,1,BrownishYellow,0,Linear,0
+Leaf scald,leaf_scald (65),Lesion,1,Brown,0,Linear,0
+Leaf scald,leaf_scald (80),Lesion,1,BrownishGray,0,Linear,0
+Leaf scald,leaf_scald (84),Lesion,1,Brown,0,Linear,0
+Leaf scald,leaf_scald (86),Lesion,1,BrownishGray,0,Linear,0
+Leaf scald,leaf_scald (128),Lesion,1,BrownishYellow,0,Linear,0
+Leaf scald,leaf_scald (302),Lesion,1,BrownishGray,0,Linear,0
+Narrow Brown Leaf Spot,narrow_brown1.jpg,Lesion,1,Brown,1,Linear,1
+Narrow Brown Leaf Spot,narrow_brown2.jpg,Lesion,1,BrownishYellow,0,Linear,1
+Narrow Brown Leaf Spot,narrow_brown3.jpg,Lesion,1,Brown,1,Linear,1
+Narrow Brown Leaf Spot,narrow_brown4.jpg,Lesion,1,BrownishYellow,0,Oval,0
+Narrow Brown Leaf Spot,narrow_brown5.jpg,Lesion,1,Brown,1,Ellipsoid,0
+Narrow Brown Leaf Spot,narrow_brown6.jpg,Lesion,1,Brown,1,Oval,0
+Narrow Brown Leaf Spot,narrow_brown7.jpg,Lesion,1,Brown,1,Linear,1
+Narrow Brown Leaf Spot,narrow_brown8.jpg,Lesion,1,Brown,1,Oval,0
+Narrow Brown Leaf Spot,narrow_brown9.jpg,Lesion,1,Brown,1,Linear,1
+Narrow Brown Leaf Spot,narrow_brown10.jpg,Lesion,1,BrownishYellow,0,Oval,0
+Narrow Brown Leaf Spot,"narrow_brown (1),jpg",Lesion,1,Brown,1,Oval,0
+Narrow Brown Leaf Spot,narrow_brown (8).jpg,Lesion,1,Brown,1,Oval,0
+Narrow Brown Leaf Spot,narrow_brown (13).jpg,Lesion,1,Brown,1,Linear,1
+Narrow Brown Leaf Spot,narrow_brown (27).jpg,Lesion,1,Brown,1,Linear,1
+Narrow Brown Leaf Spot,narrow_brown (31),Lesion,1,BrownishYellow,0,Oval,0
+Narrow Brown Leaf Spot,narrow_brown (81),Lesion,1,BrownishYellow,0,Linear,1
+Narrow Brown Leaf Spot,narrow_brown_val (14),Lesion,1,Brown,1,Ellipsoid,0
+Narrow Brown Leaf Spot,narrow_brown_val (22),Lesion,1,Brown,1,Linear,1
+Narrow Brown Leaf Spot,narrow_brown_val (32),Lesion,1,Brown,1,Oval,0
+Narrow Brown Leaf Spot,narrow_brown_val (33),Lesion,1,BrownishYellow,0,Linear,1
