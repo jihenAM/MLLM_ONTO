@@ -1,0 +1,81 @@
+Class,image,SymptomAbnormality,accordance with ontology (Symptom),Color Abnormality,accordance with ontology (Color),ShapeOfSymptomAbnormality,accordance with ontology (Shape)
+Brown Spot,BrownSpot1.jpg,Spot,1,LightBrown,0,Circular,1
+Brown Spot,BrownSpot2.jpg,Spot,1,GreenishBrown,0,Oval,1
+Brown Spot,BrownSpot3.jpg,Spot,1,DarkBrown,1,Linear,0
+Brown Spot,BrownSpot4.jpg,Lesion,0,Brownish,1,Linear,0
+Brown Spot,BrownSpot5.jpg,Spot,1,Brown,1,Linear,0
+Brown Spot,BrownSpot6.jpg,Lesion,0,Brown,1,Oval,1
+Brown Spot,BrownSpot7.jpg,Lesion,0,DarkBrown,1,Linear,0
+Brown Spot,BrownSpot8.jpg,Spot,1,YellowishBrown,0,Oval,1
+Brown Spot,BrownSpot9.jpg,Spot,1,YellowishGreen,0,Linear,0
+Brown Spot,BrownSpot10.jpg,Spot,1,LightBrown,0,Oval,1
+Brown Spot,BrownSpot11.jpg,Spot,1,DarkBrown,1,Oval,1
+Brown Spot,brown_spot (338),Lesion,0,Yellow,0,Circular,1
+Brown Spot,brown_spot (24),Spot,1,YellowishBrown,0,Circular,1
+Brown Spot,brown_spot (77),Spot,1,Brown,1,Linear,0
+Brown Spot,brown_spot (168),Spot,1,ReddishBrown,0,Oval,1
+Brown Spot,brown_spot (185),Spot,1,GreenishBlack,0,Linear,0
+Brown Spot,brown_spot (246),Spot,1,Yellow,0,Ellipsoid,0
+Brown Spot,brown_spot (249),Spot,1,BrownishYellow,1,Linear,0
+Brown Spot,brown_spot (320),Spot,1,LightBrown,0,Circular,1
+Brown Spot,brown_spot (14).jpg,Spot,1,GreenishBlack,0,Oval,1
+Leaf Blast,leaf_blast1.jpg,Dry,0,Brown,1,Circular,0
+Leaf Blast,leaf_blast2.jpg,Lesion,0,Brown,1,Linear,0
+Leaf Blast,leaf_blast3.jpg,Spot,1,Brown,1,Ellipsoid,0
+Leaf Blast,leaf_blast4.jpg,Spot,1,YellowishBrown,0,Linear,0
+Leaf Blast,leaf_blast5.jpg,Spot,1,YellowishBrown,0,Ellipsoid,0
+Leaf Blast,leaf_blast6.jpg,Spot,1,DarkBrown,0,Ellipsoid,0
+Leaf Blast,leaf_blast7.jpg,Spot,1,Brown,1,Ellipsoid,0
+Leaf Blast,leaf_blast8.jpg,Spot,1,DarkBrown,0,Ellipsoid,0
+Leaf Blast,leaf_blast9.jpg,Spot,1,Brown,1,Oval,0
+Leaf Blast,leaf_blast10.jpg,Spot,1,BrownishYellow,0,Circular,0
+Leaf Blast,leaf_blast (80),Spot,1,BrownishYellow,0,Linear,0
+Leaf Blast,leaf_blast (39),Spot,1,Yellow,0,Ellipsoid,0
+Leaf Blast,leaf_blast (182),Lesion,0,DarkBrown,0,Ellipsoid,0
+Leaf Blast,leaf_blast (191),Lesion,0,Black,1,Linear,0
+Leaf Blast,leaf_blast (16),Spot,1,BrownishYellow,0,Ball,0
+Leaf Blast,leaf_blast (33),Lesion,0,Brown,1,Oval,0
+Leaf Blast,leaf_blast (104),Spot,1,BrownishYellow,0,Oval,0
+Leaf Blast,leaf_blast (225),Spot,1,GrayishBrown,0,Oval,0
+Leaf Blast,leaf_blast (235),Pimple,0,Brown,1,Halo,0
+Leaf Blast,leaf_blast (357),Spot,1,YellowishBrown,0,Ellipsoid,0
+Leaf scald,leaf_scald1.png,Spot,0,Brown,0,Ellipsoid,1
+Leaf scald,leaf_scald2.jpg,Spot,0,GreenishBrown,0,Oval,1
+Leaf scald,leaf_scald3.jpg,Lesion,1,GreenishBlack,0,Oval,1
+Leaf scald,leaf_scald4.jpg,Spot,0,YellowishBrown,0,Circular,0
+Leaf scald,leaf_scald5.jpg,Spot,0,YellowishBrown,0,Eye,0
+Leaf scald,leaf_scald6.jpg,Spot,0,YellowishBrown,0,Linear,0
+Leaf scald,leaf_scald7.jpg,Lesion,1,Brown,0,Linear,0
+Leaf scald,leaf_scald8.jpg,Lesion,1,DarkBrown,1,Ball,0
+Leaf scald,leaf_scald9.jpg,Spot,0,Brown,0,Linear,0
+Leaf scald,leaf_scald10.jpg,Spot,0,GrayishWhite,0,Linear,0
+Leaf scald,leaf_scald (15),Spot,0,Brown,0,Linear,0
+Leaf scald,leaf_scald (22),Spot,0,YellowishBrown,0,Linear,0
+Leaf scald,leaf_scald (59),Spot,0,YellowishGreen,0,Linear,0
+Leaf scald,leaf_scald (63),Spot,0,YellowishBrown,0,Linear,0
+Leaf scald,leaf_scald (65),Spot,0,YellowishBrown,0,Halo,1
+Leaf scald,leaf_scald (80),Spot,0,DarkBrown,1,Linear,0
+Leaf scald,leaf_scald (84),Spot,0,Yellow,0,Linear,0
+Leaf scald,leaf_scald (86),Spot,0,ReddishBrown,0,Linear,0
+Leaf scald,leaf_scald (128),Lesion,1,YellowishBrown,0,Linear,0
+Leaf scald,leaf_scald (302),Spot,0,Green,0,Linear,0
+Narrow Brown Leaf Spot,narrow_brown1.jpg,Spot,1,YellowishBrown,0,Ellipsoid,0
+Narrow Brown Leaf Spot,narrow_brown2.jpg,Lesion,1,GreenishBrown,0,Linear,1
+Narrow Brown Leaf Spot,narrow_brown3.jpg,Spot,1,DarkBrown,0,Linear,1
+Narrow Brown Leaf Spot,narrow_brown4.jpg,Spot,1,YellowishBrown,0,Halo,0
+Narrow Brown Leaf Spot,narrow_brown5.jpg,Lesion,1,BrownishGreen,0,Oval,0
+Narrow Brown Leaf Spot,narrow_brown6.jpg,Lesion,1,Brown,1,Linear,1
+Narrow Brown Leaf Spot,narrow_brown7.jpg,Spot,1,GreenishBlack,0,Ellipsoid,0
+Narrow Brown Leaf Spot,narrow_brown8.jpg,Spot,1,Brown,1,Linear,1
+Narrow Brown Leaf Spot,narrow_brown9.jpg,Lesion,1,DarkBrown,0,Eye,0
+Narrow Brown Leaf Spot,narrow_brown10.jpg,Spot,1,YellowishBrown,0,Linear,1
+Narrow Brown Leaf Spot,"narrow_brown (1),jpg",Spot,0,Brown,1,Ellipsoid,0
+Narrow Brown Leaf Spot,narrow_brown (8).jpg,Spot,0,ReddishBrown,0,Eye,0
+Narrow Brown Leaf Spot,narrow_brown (13).jpg,Spot,0,GreenishBlack,0,Linear,1
+Narrow Brown Leaf Spot,narrow_brown (27).jpg,Dry,0,ReddishBrown,0,Linear,1
+Narrow Brown Leaf Spot,narrow_brown (31),Lesion,1,YellowishBrown,0,Circular,0
+Narrow Brown Leaf Spot,narrow_brown (81),Spot,0,YellowishGreen,0,Halo,0
+Narrow Brown Leaf Spot,narrow_brown_val (14),Spot,0,BrownishGreen,0,Linear,1
+Narrow Brown Leaf Spot,narrow_brown_val (22),Lesion,1,BlackishBrown,0,Linear,1
+Narrow Brown Leaf Spot,narrow_brown_val (32),Spot,0,GreenishBlack,0,Linear,1
+Narrow Brown Leaf Spot,narrow_brown_val (33),Lesion,1,GreenishBrown,0,Halo,0
