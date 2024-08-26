@@ -7,7 +7,7 @@ Results could be seen in [/Results](https://github.com/anonymousUserblanked/MLLM
 However, in this repository, we share all the needed code to reproduce the results when having API key access.
 
 ## Used Dataset
-* **Image dataset**: Our dataset of rice diseases images consists of four classes which are brown spot, leaf blast, leaf scald and narrow brown spot. It was originally proposed in [1].
+* **Image dataset**: Our dataset of rice diseases images consists of four classes which are brown spot, leaf blast, leaf scald and narrow brown spot. It was originally proposed in [1,3].
 * **Rice disease ontology**: In this work, we will employ the RiceDO ontology. This OWL ontology models knowledge related to traits and phenotypes of various rice diseases including abnormal appearance characteristics and symptoms [2].
 ### Multimodal Larege Language Models (MLLMs)
 We prompt and evaluate the performance of four leading MLLMs using the ontology: 
@@ -49,3 +49,4 @@ chmod +x run_all.sh
 ## References
  * [1] Hosain, A.S., Mehedi, M.H.K., Jerin, T.J., Hossain, M.M., Raja, S.H., Ferdoushi,H., Iqbal, S., Rasel, A.A.: Rice leaf disease detection with transfer learning approach. In: 2022 IEEE International Conference on Artificial Intelligence in Engineering and Technology (IICAIET). pp. 1–6. IEEE (2022)
  * [2]Jearanaiwongkul, W., Anutariya, C., Racharak, T., Andres, F.: An ontology-based expert system for rice disease identification and control recommendation. Applied Sciences 11(21), 10450 (2021)
+ * [3] Hasan, M., Khatun, S., Raihan, M.A., Uddin, A.H.: Rice leaf bacterial and fungal disease dataset. Mendeley Data, V2 (2023). https://doi.org/10.17632/hx6f852hw4.2
