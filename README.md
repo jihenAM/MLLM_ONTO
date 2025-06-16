@@ -3,7 +3,7 @@
 This repository contains the code, data and results for our paper Integrating Multimodal Large Language Models and Ontology for Visual Concept Identification,Inference and explainability.
 For more details, please check our paper. 
 In our paper, we used the platform  [Vision-Arena](https://huggingface.co/spaces/WildVision/vision-arena) to prompt Multimodal Larege Language Models (MLLMs) since it provides the opportunity to use MLLMs without API access keys.
-Results could be seen in [/Results](https://github.com/anonymousUserblanked/MLLM_ONTO/tree/main/Results))
+Results could be seen in [/Results](https://github.com/jihenAM/MLLM_ONTO/tree/main/Results)
 However, in this repository, we share all the needed code to reproduce the results when having API key access.
 
 ## Used Dataset
@@ -16,9 +16,9 @@ We prompt and evaluate the performance of four leading MLLMs using the ontology:
 * [LLaVA v1.6-7/34b](https://huggingface.co/liuhaotian/llava-v1.6-34b)
 * [Claude-3opus-20240229](https://www.anthropic.com/claude).
 ### Contents
-* [run_mllm.py](https://github.com/anonymousUserblanked/MLLM_ONTO/blob/main/run_mllm.py): This script enables prompting different multimodal large language models, including LLAVA, gpt4vision, Gemini, and Claude. The script allow users to specify the model, an ontology file, the image dataset directory and the output directory. The script calls the generate_prompt function from the [prompt_ontology](https://github.com/anonymousUserblanked/MLLM_ONTO/blob/main/prompt_ontology.py) module, which generates a prompt automatically using disease concepts from the ontology. Then, the created prompt and image are passed to the chosen MLLM, where observed abnormalities (color, shape, and symptoms) are returned in a JSON format. All the results considering the class of the image, the image name, and the observed abnormalities are added. Then, the owl_expression_creation method from [owl_expression_generalization.py](https://github.com/anonymousUserblanked/MLLM_ONTO/blob/main/owl_expression_generalization.py)  will be called to create an owl expression of all observed abnormalities.
-* [prompt_ontology.py](https://github.com/anonymousUserblanked/MLLM_ONTO/blob/main/prompt_ontology.py):This script takes the ontology and extracts the abnormality concepts (color, shape, and symptoms), then creates the textual prompt 
-* [owl_expression_generalization.py](https://github.com/anonymousUserblanked/MLLM_ONTO/blob/main/owl_expression_generalization.py): This script will take the generated CSV file in the previous step and automatically create the OWL expression for the corresponding observation
+* [run_mllm.py](https://github.com/anonymousUserblanked/MLLM_ONTO/blob/main/run_mllm.py): This script enables prompting different multimodal large language models, including LLAVA, gpt4vision, Gemini, and Claude. The script allow users to specify the model, an ontology file, the image dataset directory and the output directory. The script calls the generate_prompt function from the [prompt_ontology](https://github.com/jihenAM/MLLM_ONTO/blob/main/prompt_ontology.py) module, which generates a prompt automatically using disease concepts from the ontology. Then, the created prompt and image are passed to the chosen MLLM, where observed abnormalities (color, shape, and symptoms) are returned in a JSON format. All the results considering the class of the image, the image name, and the observed abnormalities are added. Then, the owl_expression_creation method from [owl_expression_generalization.py](https://github.com/jihenAM/MLLM_ONTO/blob/main/owl_expression_generalization.py) will be called to create an owl expression of all observed abnormalities.
+* [prompt_ontology](https://github.com/jihenAM/MLLM_ONTO/blob/main/prompt_ontology.py):This script takes the ontology and extracts the abnormality concepts (color, shape, and symptoms), then creates the textual prompt 
+* [owl_expression_generalization.py](https://github.com/jihenAM/MLLM_ONTO/blob/main/owl_expression_generalization.py): This script will take the generated CSV file in the previous step and automatically create the OWL expression for the corresponding observation
 * mllm/: this folder contains scripts to prompt Multimodal Larege Language Models (MLLMs) 
 * reasoner/: this folder contains the script to take the owl expression for each image from the CSV file and give it to the reasoner to obtain the corresponding disease class from the ontology; the result will be saved in a new CSV file to have the diagnosis of each image disease.
 ### Usage
@@ -40,7 +40,7 @@ Where:
   * <class_expressions_path> is the path for the {model}_owlexpression_result.csv created in the previous step
   * <output_csv_path> is the csv file that will have the result of the reasoner which is the diagnosis of the disease for each image
 ```
-* A shell script [run_all.sh](https://github.com/anonymousUserblanked/MLLM_ONTO/blob/main/run_all.sh) is also provided to run the whole process
+* A shell script [run_all.sh](https://github.com/jihenAM/MLLM_ONTO/blob/main/run_all.sh) is also provided to run the whole process
 
 ```
 chmod +x run_all.sh
